@@ -22,9 +22,29 @@ Agrupados en carpetas, sub-carpetas y archivos pgn por tema, se facilita la busq
 
 *Duración esperada: 2-4 Clases*
 
-`\nivelB` - Carpeta con enfoque 80% Táctica - 20% Estrategia, para jugadores que desean ganar sus primeras partidas.
+`\nivelB1` - Carpeta con enfoque 80% Táctica - 20% Estrategia, para jugadores que desean ganar sus primeras partidas.
+0. Calculo basico - Jaques, Capturas, Amenazas
 1. Extension: Ejercicios de Mate (m2)
-2. Introdución: Temas Tacticos (Ej: Doble, Clavada, Descubierto...)
+2. Introdución: Temas Tacticos (Ej: Doble, Clavada, Descubierto...) 
 3. Principios de Apertura (Tiempos) + Extension: Centro y Desarollo
-4. Introdución: Finales de Peones, Oposición 
+4. Finales: DxP, PxR, PxP
+5. Partidas de Morphy + Miniaturas (Enfoque: Rey en el Centro)
+
+`\NivelB2` - 
+1. Extension: Mate (m2+, m3) 
+2. Tactica: + Jugadas Intermediarias y + Avanzadas
+3. Aperturas: Italiana + Gambitos
+4. Finales: 2PxP, 2AxR
+5. Partidas de Morphy + Miniaturas (Enfoque: Rey en el Centro, Ataque al flanco Rey)
+
+`\NivelC1` -
+1. Extension: Mate (m2+, m3)
+2. Tactica sin saber tema
+3. Aperturas: 
+4. Finales: TxP, TxT
+5. Partidas: Capablanca, Alekhine (Enfoque: Medio Juego y Finales)
+
+
+
+
 
